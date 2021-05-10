@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<panorama appversion="6.1.2" id="node1" apprev="17873" hideabout="1">
+  <input leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" leveltilesize="510" levelbiashidpi="1.000" levelbias="0.400" height="2048" levelingpitch="0" overlap="1" width="2048" levelingroll="0">
+    <level preload="0" predecode="0" height="2048" width="2048"/>
+    <level preload="0" predecode="0" height="1024" width="1024"/>
+    <level preload="0" predecode="0" height="512" width="512"/>
+    <level preload="1" predecode="1" height="256" width="256"/>
+    <preview color="0x808080" strip="1"/>
+  </input>
+  <view fovmode="0" pannorth="0">
+    <start pan="0" fov="70" projection="4" tilt="0"/>
+    <flyin pan="0" fov="170" projection="9" tilt="-90"/>
+    <min pan="0" fovpixel="2" tilt="-90"/>
+    <max pan="360" fov="120" scaletofit="1" fovstereographic="270" tilt="90" fovfisheye="360"/>
+  </view>
+  <userdata description="" author="" datetime="" source="" copyright="" latitude="" nodeid="node1" comment="" tags="Рабочий стол" info="" title="" longitude="" customnodeid=""/>
+  <hotspots height="20" width="180" wordwrap="1">
+    <label bordercolor="0x000000" textalpha="1" border="1" height="20" borderalpha="1" width="180" enabled="1" textcolor="0x000000" background="1" backgroundcolor="0xffffff" borderradius="1" backgroundalpha="1" wordwrap="1"/>
+    <polystyle bordercolor="0x0000ff" mode="2" borderalpha="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" handcursor="1"/>
+  </hotspots>
+  <media/>
+  <transition zoomout="0" type="crossdissolve" zoomfov="20" blendtime="1" zoomspeed="2" enabled="1" blendcolor="0x000000" zoomoutpause="1" zoomin="0" softedge="0"/>
+  <flyintransition speed="2.00" enabled="1"/>
+  <animation animsequence="Animation01" useinautorotation="0" syncanimationwithvideo="0"/>
+  <control sensitivity="8" simulatemass="1" invertwheel="0" lockedmouse="0" dblclickfullscreen="0" hideabout="1" lockedkeyboardzoom="0" speedwheel="1" invertcontrol="1" contextprojections="0" lockedkeyboard="0" lockedwheel="0" contextfullscreen="1" rubberband="0"/>
+</panorama>
